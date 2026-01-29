@@ -7,6 +7,4 @@ cascade:
     render: never
     list: always
 ---
-- icon: cv
-  icon_pack: ai
-  link: uploads/CV_XiaoyuSun.pdf
+
